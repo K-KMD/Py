@@ -1,0 +1,7 @@
+#PYTHON
+
+# -- Veri tipleri
+x = 5                    #int       tamsayi
+y = 2.5                  #float     ondalik sayi
+name = "Erdi"            #string    harfzinciri (harflerin birlesimi)
+suanBunuOkuyor = True    #boolean   dogru/yanlis
